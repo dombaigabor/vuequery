@@ -1,5 +1,6 @@
 {
   "name": "@kinfo-dev/vuequery",
+  "homepage": "https://github.com/dombaigabor/vuequery",
   "private": false,
   "version": "2.2.0",
   "description": "Traverse Vue's component tree with ease (forked from phanan/vuequery)",
